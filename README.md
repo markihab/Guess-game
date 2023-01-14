@@ -8,5 +8,6 @@ It's a game where a random number is generated, As a user you try to guess this 
 - How to interact with CSS properties.
 - User Math library
 - Convert the type of the variables.
-- Ternary Operator.
-- Applying the Dry principal, thus writing more clean code.
+- Use Ternary Operator insted of if condition.
+- Apply the Dry principal, thus writing more clean code.
+- Upload Project on Github using Gi.
