@@ -10,4 +10,4 @@ It's a game where a random number is generated, As a user you try to guess this 
 - Convert the type of the variables.
 - Use Ternary Operator insted of if condition.
 - Apply the Dry principal, thus writing more clean code.
-- Upload Project on Github using Gi.
+- Upload Project on Github using Git.
